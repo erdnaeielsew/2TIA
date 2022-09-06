@@ -1,0 +1,33 @@
+body{
+    background-color:black
+}
+h1{
+    color:antiquewhite
+}
+p {
+    color:antiquewhite
+}
+body{background-image:url(pciradonovo.jpg) ;
+    background-repeat:no-repeat;
+background-size:100% ;}
+.borda1 {
+    margin-left: 50px;
+    padding-top: 15px;
+}
+.borda2 {
+    margin-left: 50px;
+}
+.borda3 {
+    margin-left: 50px;
+}
+.borda4 {
+    margin-left: 50px;
+}
+.borda5 {
+    margin-left: 50px;
+}
+body{
+    font-family: serif;
+    font-size: 2rem;
+
+}
